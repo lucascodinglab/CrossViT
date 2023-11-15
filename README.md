@@ -15,7 +15,7 @@ Contains:
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align:center;">
-    <img src="CrossViT.PNG" alt="Documentation" width="600">
+    <img src="Cross_ViT.PNG" alt="Documentation" width="600">
     <p style="font-style:italic;">Illustration of the CrossViT Architecture w</p>
   </div>
 </div>
